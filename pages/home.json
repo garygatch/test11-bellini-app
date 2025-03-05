@@ -8,6 +8,11 @@
       "name": "petstore",
       "type": "open-api",
       "id": "open-api"
+    },
+    {
+      "name": "aa",
+      "type": "service",
+      "id": "service"
     }
   ],
   "children": [
