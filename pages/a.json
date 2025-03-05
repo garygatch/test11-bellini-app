@@ -1,0 +1,36 @@
+{
+  "name": "a",
+  "type": "page",
+  "url": "/a",
+  "params": {},
+  "variables": [],
+  "children": [
+    {
+      "name": "glob",
+      "nodeName": "glob",
+      "elementId": "",
+      "attributes": [
+        {
+          "property": "data-id",
+          "value": "rN6kNa"
+        }
+      ],
+      "classList": [],
+      "conditionalClasses": [],
+      "conditionalStyles": [],
+      "contentType": "text",
+      "displayExpression": "",
+      "events": {},
+      "iterate": {
+        "array": "",
+        "variable": "",
+        "trackByIndex": false
+      },
+      "styles": [],
+      "children": [],
+      "comments": "",
+      "type": "custom-component",
+      "expressions": []
+    }
+  ]
+}
